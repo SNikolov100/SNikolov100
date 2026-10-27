@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Svetoslav Nikolov 👋
 
-<!--
-**SNikolov100/SNikolov100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python and Django developer focused on business applications, process automation and internal management systems.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Control Measurements
+- Climate Calculator
+- Exam Management System
+
+## Technologies
+
+- Python
+- Django
+- SQLite
+- HTML
+- CSS
+- Git
+- GitHub
+
+## Interests
+
+- Business Applications
+- Process Automation
+- Software Architecture
+- User Interface Design
+
+## Current Goal
+
+Building complete business applications with Python and Django.
