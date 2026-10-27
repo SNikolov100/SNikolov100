@@ -4,7 +4,7 @@ I build business applications with Python and Django, focusing on practical work
 
 ## Current Projects
 
-### Control Measurements
+### [Control Measurements](https://github.com/SNikolov100/control-measurements)
 A Django application for managing customers, equipment, inspection activities, employees and measurement history.
 
 ### Exam Management System
